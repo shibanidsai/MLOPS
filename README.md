@@ -28,7 +28,8 @@ The following **learning sequence should be strictly followed** to understand th
 4. **Inference Systems**  
    - Uses the trained `.pkl` model from the ML pipeline.
    - Demonstrates real-world inference and prediction workflows.
-
+5.**Data profiling** ..need to be downloaded and run as not able to checkin from google collab due to widgets present
+useful for EDA on any data
 
 
 - Follow the sequence strictly for smooth learning.
