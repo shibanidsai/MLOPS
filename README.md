@@ -1,2 +1,36 @@
-# MLOPS
-Has all codes of mlops
+# MLOps
+
+This repository contains end-to-end **MLOps concepts and implementations**.  
+The following **learning sequence should be strictly followed** to understand the flow properly.
+
+---
+
+## Learning Sequence
+
+### Day 1
+
+1. **Uncertainty Sampling**  
+   - Covers the basics of uncertainty-based sample selection with entropy as concepts
+
+2. **Active Learning**  
+   - Implements active learning strategies with datalabelling
+
+3. **ML Pipeline**  
+   - End-to-end machine learning pipeline.
+   - Includes:
+     - Data preprocessing  
+     - Model training  
+  
+   **Important:**  
+   - A `.pkl` file (trained model) is generated in this step.  
+   - **Download this `.pkl` file** and **upload it while running the next module**.
+
+4. **Inference Systems**  
+   - Uses the trained `.pkl` model from the ML pipeline.
+   - Demonstrates real-world inference and prediction workflows.
+
+
+
+- Follow the sequence strictly for smooth learning.
+- Each step depends on outputs from the previous step.
+- Ensure required dependencies are installed before execution.
