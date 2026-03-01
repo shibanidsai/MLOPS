@@ -31,6 +31,12 @@ The following **learning sequence should be strictly followed** to understand th
 5.**Data profiling** ..need to be downloaded and run as not able to checkin from google collab due to widgets present
 useful for EDA on any data
 
+6.**ML Experiment** .. useful to learn ml experiment with weights and biases
+
+7.**Model Search automl h20** .. useful to learn ml experiment with weights and biases
+
+
+
 
 - Follow the sequence strictly for smooth learning.
 - Each step depends on outputs from the previous step.
