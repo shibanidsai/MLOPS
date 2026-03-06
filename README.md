@@ -35,6 +35,9 @@ useful for EDA on any data
 
 7.**Model Search automl h20** .. useful to learn ml experiment with weights and biases
 
+8.**Model deplymement as a service** .. here we learn to deply model on server and before this generate ml pipeline uploaded on githbub to generate pkl file
+
+
 
 
 
