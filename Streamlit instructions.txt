@@ -1,0 +1,8 @@
+"C:\Users\Kishan Singh\Python\python.exe" -m pip install streamlit
+
+then check if streamlit is intalaled 
+"C:\Users\Kishan Singh\Python\python.exe" -m streamlit hello
+
+then it ask my email id which also needs to be signed up on streamlit
+
+then run the last line of code in used car and voila it open make sure app,py is present at that path where jupyter is beinf run
