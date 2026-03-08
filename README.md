@@ -37,6 +37,12 @@ useful for EDA on any data
 
 8.**Model deplymement as a service** .. here we learn to deply model on server and before this generate ml pipeline uploaded on githbub to generate pkl file
 
+9.**Used_Car_Price_App_v1** and read streamlit instructions this is first step to streamlit
+
+10.**deply ngrok ..codes appended with ngrok**...first generate fresh pkl file
+
+11.**Streamlit Ngrok** 
+
 
 
 
